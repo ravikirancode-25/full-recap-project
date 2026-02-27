@@ -1,1 +1,2 @@
 version1 of project
+version2 of project
