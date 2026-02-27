@@ -1,4 +1,4 @@
 version1 of project
 version2 of project
-Feature branch improvent
-merge branch change
+Master branch change
+Feature branch different change
